@@ -4,9 +4,9 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+      <h1>  <samp>&gt; Hey There!, I am
               <b>Rutuj Gopale</b>
-        </samp>
+              </samp></h1>
 </h3>
 
 
