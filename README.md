@@ -9,9 +9,21 @@
               </samp>
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DFFF00&width=435&lines=Hi+!+I+Am+a+Full+Stack+Web+developer+I+Do+Frontend+I+Do+Backend)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DE3163&width=580&lines=_+_+_+_+I+Am+a+Full+Stack+Web+developer+_+_+_+_)](https://git.io/typing-svg)
+    
 
 
+
+
+
+
+<!-- About Section -->
+ # About me
+ 
+<p>
+ <img align="right" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" alt="Coding gif" />
+ I am a passionate Full Stack Web Developer skilled in the MERN stack, having acquired comprehensive knowledge and expertise through my training at Masai School in Full Stack Web Development.As a computer engineer graduate from St. John College, I have a strong passion for web development and a keen interest in both coding and design. I am a self-motivated and driven individual who is always looking for ways to improve my skills and stay up-to-date with the latest trends in web development. With my strong technical background and creative mindset, I am confident that I would be a valuable addition to any team.
+</p>
 
 
 <p align="center">
@@ -20,29 +32,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
 
- <a href="https://twitter.com/alsiam_dev" target="_blank">
+ <a href="https://twitter.com/RutujGopale" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/alsiam.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
- </a> 
- <a href="https://facebook.com/alsiam.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
-  </a> 
-</p>
-<br />
-
-<!-- About Section -->
- # About me
  
-<p>
- <img align="right" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
-
 </p>
 
 <br/>
