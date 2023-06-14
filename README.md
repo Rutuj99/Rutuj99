@@ -3,11 +3,13 @@
 
 
 <!-- Intro  -->
-<h3 align="center">
-      <h1>  <samp>&gt; Hey There!, I am
+<h1 align="center">
+     <samp>&gt; Hey There!, I am
               <b>Rutuj Gopale</b>
-              </samp></h1>
-</h3>
+              </samp>
+</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DFFF00&width=435&lines=Hi+!+I+Am+a+Full+Stack+Web+developer+I+Do+Frontend+I+Do+Backend)](https://git.io/typing-svg)
 
 
 
