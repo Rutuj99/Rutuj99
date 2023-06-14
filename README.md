@@ -1,6 +1,6 @@
 
 <a href="https://komarev.com/ghpvc/?username=rutuj99">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=rutuj99&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
@@ -9,20 +9,12 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Saif Al Siam</a></b>
+              <b>Rutuj Gopale</b>
         </samp>
 </h3>
 
 
-<p align="center"> 
-  <samp>
-    <a href="https://www.google.com/search?q=Saif+Al+Siam">「 Google Me 」</a>
-    <br>
-    「 I am a full stack web appplication developer from <b>Bangladesh</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
+
 
 <p align="center">
  <a href="https://alsiam.com" target="blank">
