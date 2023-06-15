@@ -9,7 +9,7 @@
               </samp>
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&width=550&lines=_+_+_+_+I+Am+a+Full+Stack+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&width=550&lines=_+_+_+_+I+Am+a+Full+Stack+Web+Developer+🚶)](https://git.io/typing-svg)
     
 
 
