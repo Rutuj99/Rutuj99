@@ -19,7 +19,7 @@
 
 <!-- About Section -->
  # About me
- <h3><a href="https://rutuj99.github.io/">To Portfolio</a></h3>
+ 
 <p>
  <img align="right" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" alt="Coding gif" />
  I am a passionate Full Stack Web Developer skilled in the MERN stack, having acquired comprehensive knowledge and expertise through my training at Masai School in Full Stack Web Development.As a computer engineer graduate from St. John College, I have a strong passion for web development and a keen interest in both coding and design. I am a self-motivated and driven individual who is always looking for ways to improve my skills and stay up-to-date with the latest trends in web development. With my strong technical background and creative mindset, I am confident that I would be a valuable addition to any team.
