@@ -47,7 +47,7 @@
 
 
 # Portfolio
- - https://rutuj99.github.io/
+ - https://rutuj99.github.io
 
 # Tech Stack
 
